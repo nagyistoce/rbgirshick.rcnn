@@ -199,3 +199,6 @@ As an example, let's see how you would fine-tune a CNN for detection on PASCAL V
   </pre>
       
 **Note:** In my experiments, I've let fine-tuning run for 70k iterations, although with hindsight it appears that improvement in mAP saturates at around 40k iterations.
+
+** Note on Classifiers in C++ ** https://gist.github.com/onauparc/dd80907401b26b602885
+
